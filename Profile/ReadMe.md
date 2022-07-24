@@ -1,1 +1,1 @@
-settings.json is located C:\Users\???\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
+settings.json is located "C:\Users\XXX\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState"
