@@ -6,4 +6,4 @@
 
 ### Just copy the settings.json and replace in the file path above
 
-## **[Links]** (https://www.markdownguide.org/basic-syntax/#overview) 
+## **[Links]** ###(https://www.markdownguide.org/basic-syntax/#overview) 
